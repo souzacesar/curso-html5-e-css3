@@ -1,0 +1,13 @@
+ESTRUTURA BÁSICA
+
+<!DOCTYPE html> Diz ao navegador o que vc esta escrevendo
+<html>Tudo vai esta dentro desse elemento
+<head>Dentro do elemento vamos ter varias informações
+<meta>chset
+<title></title> É a que coloca o titulo na aba do navegador
+</head>
+<body>
+É onde vai estar o conteudo da nossa pagina
+
+</body>
+</html>
