@@ -1,0 +1,49 @@
+ESTRUTURA BÁSICA
+
+<!DOCTYPE html> Diz ao navegador o que vc esta escrevendo
+<html>Tudo vai esta dentro desse elemento
+<head>Dentro do elemento vamos ter varias informações
+<meta>chset
+<title></title> É a que coloca o titulo na aba do navegador
+</head>
+<body>
+É onde vai estar o conteudo da nossa pagina
+
+</body>
+</html>
+
+
+Textos e Links
+<a>link</a>
+<a href="linkedin.com/in/vilabom">linkedin</a>
+<a href="mailto:lucas@vilaboim.com">Email</a>
+
+<p>
+
+<a target="_blank">link</a>
+
+Adicionar o elemento <p> "colocar um texto </p>
+
+Adicionar o elemento <a> href=" https://colocar um endereço/" . </a>
+
+<a> href="https://</a>
+
+</p>
+
+Para abrir outra pagina
+<p>
+
+<a> href="http:// www."target=_blank"> 
+
+
+________________________________________________________
+
+
+</header>
+<p> 
+colocar um <a href= "https://www.baixaki.com.br" target="_blank">texto aqui dentro para exemplo</a>com isso vamos<a href="mailto:tecmap@gmail.com"> colocar uma referencia para e-mail</a>
+
+
+
+
+</p>
